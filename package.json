@@ -1,0 +1,26 @@
+{
+  "name": "krying",
+  "version": "1.0.4",
+  "description": "krying — games hub, AI, movies, and tools",
+  "license": "UNLICENSED",
+  "private": false,
+  "main": "index.html",
+  "unpkg": "index.html",
+  "jsdelivr": "index.html",
+  "homepage": "https://unpkg.com/krying/",
+  "scripts": {
+    "start": "node server.js",
+    "audit": "npm audit --omit=dev",
+    "prepublishOnly": "node --check auth.js && node --check store.js && node --check app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "krying",
+    "unblocked",
+    "games",
+    "hub"
+  ],
+  "dependencies": {}
+}

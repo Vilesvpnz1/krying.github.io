@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cl_2026_07_08_chat",
+    "title": "chat got a full redo",
+    "message": "logged in users get public chat and private sessions now. make a room, share the 6 letter code, and people can join for text voice or video. host can end it, anyone can leave when they want.",
+    "createdAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_07_08_browser",
+    "title": "browser opens first",
+    "message": "site loads into the browser tab instead of games. browser sits right before games in the nav. f12 and the dev tools button work inside the built in browser when you need them.",
+    "createdAt": "2026-07-08T21:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_07_08_cloak",
+    "title": "tab cloaker icons fixed",
+    "message": "cloak presets show their icons again and the fake favicon actually lands in your tab bar when a disguise is active.",
+    "createdAt": "2026-07-08T21:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_07_08_brand",
+    "title": "kobran on legal pages",
+    "message": "terms privacy and hub legal text say kobran now instead of kobran. should match the rest of the site.",
+    "createdAt": "2026-07-08T20:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_07_08_voice",
+    "title": "voice and video mic access",
+    "message": "voice and video sessions ask for mic permission when you hit the button so the browser popup shows. tap allow when it comes up.",
+    "createdAt": "2026-07-08T20:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_bg",
+    "title": "background themes in settings",
+    "message": "settings has a background section now. eclipse nebula void dawn and grid all show a preview on the card so you can see what youre picking. grid is default. paste a link or upload your own image too.",
+    "createdAt": "2026-06-17T22:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_perf",
+    "title": "lite mode when you join",
+    "message": "after you log in or skip as guest the site asks full or lite. lite kills the heavy effects so old laptops run smoother. flip it anytime in settings under performance.",
+    "createdAt": "2026-06-17T21:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_library",
+    "title": "favorites and recently played",
+    "message": "star games on the card to favorite them. home page shows your favorites row and recently played row. guests keep it local, logged in users sync it to their account.",
+    "createdAt": "2026-06-17T21:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_chat",
+    "title": "chat is live",
+    "message": "chat page is back for logged in users. delete your own messages, see whos online, pinned messages show at the top. admins can pin stuff, turn on slow mode, and mute people from the admin panel.",
+    "createdAt": "2026-06-17T20:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_admin",
+    "title": "admin got more tools",
+    "message": "dashboard can schedule game of the day by game id and time range. chat tab has slow mode seconds, pin, clear pin, and mute user buttons on messages.",
+    "createdAt": "2026-06-17T20:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_kobran",
+    "title": "lumina route",
+    "message": "cine cloud stuff moved to /lumina/ so games and video load right again. branding says lumina now.",
+    "createdAt": "2026-06-17T19:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_17_auth",
+    "title": "login and profiles",
+    "message": "you gotta sign in or skip guest when the site loads. accounts save settings chat and your library. profile page for avatar and display name.",
+    "createdAt": "2026-06-17T19:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_02_home",
+    "title": "Game of the day and random picks",
+    "message": "Games tab has a featured section now with today's pick and a scrolling random game row. Use pick random game if you cannot decide.",
+    "createdAt": "2026-06-02T20:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_02_apps",
+    "title": "Apps tab got bigger",
+    "message": "YouTube, TikTok, Snapchat, ChatGPT, Instagram, and Gauth AI open through the proxy from the Apps tab.",
+    "createdAt": "2026-06-02T19:30:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_02_discord",
+    "title": "Discord button",
+    "message": "Discord invite link sits next to the Kobran logo up top. Tutorial explains how to join for updates.",
+    "createdAt": "2026-06-02T19:00:00.000Z"
+  },
+  {
+    "id": "cl_2026_06_02_proxy",
+    "title": "Proxy apps load better",
+    "message": "Scramjet proxy got embed fixes so YouTube and other apps load more reliably when you tap them.",
+    "createdAt": "2026-06-02T18:30:00.000Z"
+  }
+]

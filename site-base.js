@@ -88,6 +88,9 @@
     if (!rel) return "";
     if (/^https?:\/\//i.test(rel) || /^data:/i.test(rel) || /^blob:/i.test(rel)) return rel;
     if (rel.charAt(0) === "/") rel = rel.slice(1);
+    if (isPages() && /^assets\/thumbs\//i.test(rel)) {
+      return "https://cdn.jsdelivr.net/npm/krying@1.0.4/" + rel;
+    }
     return assetBase() + rel;
   }
 
